@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-05-24-acquisition_source_mdedium_referr
+title: Acquisition_source_mdedium_referr
 date : 24 May 2023
 category : DataAnalysis_Marketing
 comments : true
