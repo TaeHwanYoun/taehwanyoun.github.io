@@ -11,7 +11,12 @@ pipenv를 활용한 가상환경을 구축하고, 원하는 특정 버전의 pyt
 (pipenv 외에도,  virtualenv 등을 활용한 가상환경도 가능합니다.)
 
 
-![Alt text](../../assets/Linux_Env/pyenv_2/pyenv_2_pipenv_01.png)
+<center>
+
+<img src = '../../assets/Linux_Env/pyenv_2/pyenv_2_pipenv_01.png' width = '80%'>
+<!-- ![Alt text](../../assets/Linux_Env/pyenv_2/pyenv_2_pipenv_01.png) -->
+
+</center>
 
 <center>pyenv & pipenv를 활용하여, 디렉토리별로 다른 환경 구축</center>
 
