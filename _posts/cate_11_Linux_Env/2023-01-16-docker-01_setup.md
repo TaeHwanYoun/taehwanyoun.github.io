@@ -44,7 +44,7 @@ comments : true
 
 <center>
 
-<img src = '/assets/Linux_Env/docker_setup/docker_setup_02.png' width = '80%' alt = "Docker : 이미지와 레이어(layer) 구조" 블로그>
+<img src = '/assets/Linux_Env/docker_setup/docker_setup_02.png' width = '80%' alt = "Docker : 이미지와 레이어(layer) 구조 블로그">
 
 
 도커의 이미지는 압축파일과 유사한 구조를 갖지만,<br>레이어를 공유한다는 점에서는 차이점을 지닌다.
@@ -98,7 +98,9 @@ sudo service docker restart
 ```
 
 <br>
+
 ---
+
 ## 2) 도커 이미지 다운로드 & 실행
 ### (1) 도커 이미지 다운로드
 : 도커 이미지는 1) docker_hub 공식 이미지 다운 , 2) 직접 생성, 3) 다른 사용자가 만들어둔 이미지 다운 받는 방법이 있다.
@@ -128,13 +130,6 @@ docker run -it --name hello ubuntu /bin/bash
 ```sh
 exit
 ```
-
-
-<br>  
-
----
-# 3. 나만의 이미지 생성하기(ft. Dockerfile)
-
 
 
 
