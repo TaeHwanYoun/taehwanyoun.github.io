@@ -8,11 +8,11 @@ comments : true
 
 ## 1. SELECT
 ### 오프라인/온라인 판매 데이터 통합하기
-#### Quiz
+### Q_1
  - ONLINE_SALE 테이블과 OFFLINE_SALE 테이블에서 2022년 3월의 오프라인/온라인 상품 판매 데이터의 판매 날짜, 상품ID, 유저ID, 판매량을 출력하는 SQL문을 작성해주세요.  
  - OFFLINE_SALE 테이블의 판매 데이터의 USER_ID 값은 NULL 로 표시해주세요.  
  - 결과는 판매일을 기준으로 오름차순 정렬해주시고 판매일이 같다면 상품 ID를 기준으로 오름차순, 상품ID까지 같다면 유저 ID를 기준으로 오름차순 정렬해주세요.  
- - [Programmers 코딩 테스트 연습 : 1_SELECT_3_오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)  
+ - [Programmers 코딩 테스트 연습 : 1_SELECT_오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)  
 
 ```sql
 SELECT
@@ -43,9 +43,9 @@ ORDER BY SALES_DATE, PRODUCT_ID, USER_ID;
 
 <br>
 
-#### Quiz
+### Q_2
  - 동물 보호소에 가장 먼저 들어온 동물의 이름을 조회하는 SQL 문을 작성
- - [Programmers 코딩 테스트 연습 : 1_SELECT_3_상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)  
+ - [Programmers 코딩 테스트 연습 : 1_SELECT  상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)  
 
 
 ```sql
@@ -67,4 +67,28 @@ LIMIT 1;
    - `LIMIT` : head()와 동일하게, 상위 N 개의 값을 출력
 
 
+<br>
 
+--- 
+
+<br>
+
+### Q_2
+ : USER_INFO 테이블에서 2021년에 가입한 회원 중 나이가 20세 이상 29세 이하인 회원이 몇 명인지 출력하는 SQL문을 작성해주세요.
+  - [Programmers 코딩 테스트 연습 : 1_SELECT 조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535) 
+
+```sql
+-- 1) MY ANSWER
+-- SELECT COUNT(DISTINCT(USER_ID)) AS USER_ID 
+-- FROM USER_INFO
+-- WHERE JOINED >= '2021-01-01' AND JOINED <= '2021-12-31'
+-- AND AGE >= 20 AND AGE < 30;
+
+-- 2) BETTER ANSWER
+SELECT COUNT(DISTINCT(USER_ID)) AS OUTPUT
+FROM USER_INFO
+WHERE 
+    YEAR(JOINED) = 2021 AND
+    AGE BETWEEN 20 AND 29;
+
+```
