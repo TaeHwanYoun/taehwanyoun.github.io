@@ -206,3 +206,90 @@ ORDER BY reply.created_date ASC, board.title asc
 ;
 
 ```
+
+
+
+<br>
+
+--- 
+
+<br>
+
+### ■ Q_6
+ - PATIENT 테이블에서 12세 이하인 여자환자의 환자이름, 환자번호, 성별코드, 나이, 전화번호를 조회
+ - 전화번호가 없는 경우, 'NONE'으로 출력
+ - 결과는 나이를 기준으로 내림차순 정렬하고, 나이 같다면 환자이름을 기준으로 오름차순
+ - [Programmers 코딩 테스트 연습 : 1_SELECT 12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201) 
+
+```sql
+-- 1) case when
+SELECT PT_NAME, PT_NO, GEND_CD, AGE, 
+    CASE WHEN TLNO IS NULL THEN 'NONE'
+    ELSE TLNO END AS TLNO
+FROM PATIENT
+WHERE AGE <= 12 AND GEND_CD = 'W'
+ORDER BY AGE DESC, PT_NAME ASC;
+
+-- 2) COALESCE
+SELECT PT_NAME, PT_NO, GEND_CD, AGE, COALESCE(TLNO, "NONE")
+    # CASE WHEN TLNO IS NULL THEN 'NONE'
+    # ELSE TLNO END AS TLNO
+FROM PATIENT
+WHERE AGE <= 12 AND GEND_CD = 'W'
+ORDER BY AGE DESC, PT_NAME ASC;
+```
+
+
+
+<br>
+
+--- 
+
+<br>
+
+### ■ Q_7
+ - ONLINE_SALE 테이블에서 동일한 회원이 동일한 상품을 재구매한 데이터를 구하여,
+ -  재구매한 회원 ID와 재구매한 상품 ID를 출력
+ -  결과는 회원 ID를 기준으로 오름차순 정렬, 회원 ID가 같다면 상품 ID를 기준으로 내림차순 정렬
+ - [Programmers 코딩 테스트 연습 : 1_SELECT 재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536#qna) 
+
+```sql
+-- MY WRONG ANSWER
+SELECT 
+    SUBSTRING_INDEX(SUB.USER_PROD, '_', 1) AS USER_ID,
+    SUBSTRING_INDEX(SUB.USER_PROD, '_', -1) AS PRODUCT_ID 
+FROM (
+    SELECT CONCAT(USER_ID, '_', PRODUCT_ID) AS USER_PROD
+    FROM ONLINE_SALE
+    ) AS SUB
+GROUP BY SUB.USER_PROD
+HAVING COUNT(SUB.USER_PROD) >= 2
+ORDER BY USER_ID ASC, PRODUCT_ID DESC
+;
+
+-- BETTER ANSWER_1
+SELECT USER_ID, PRODUCT_ID
+FROM ONLINE_SALE
+GROUP BY USER_ID, PRODUCT_ID
+HAVING COUNT(*) > 1
+ORDER BY USER_ID, PRODUCT_ID DESC;
+
+-- BETTER ANSWER_2
+SELECT USER_ID, PRODUCT_ID
+FROM (
+        SELECT USER_ID, PRODUCT_ID, COUNT(*) CNT
+        FROM ONLINE_SALE
+        GROUP BY USER_ID, PRODUCT_ID
+    ) AS SALE
+WHERE CNT > 1
+ORDER BY USER_ID, PRODUCT_ID DESC
+;
+```
+
+#### Learning : **HAVING**
+ - GROUP BY절과 함께 사용되며, 그룹화된 결과에 조건을 적용.
+ - HAVING + 집계함수(count, sum, avg)와 함께 주로 사용
+
+ - WHERE 절과 유사해보이지만,
+ - **WHERE**절은 **개별 레코드**에 대한 조건을 검사하고,
+ - **HAVING**절은 **그룹화된 결과 집합**에 조건을 검사함. 
