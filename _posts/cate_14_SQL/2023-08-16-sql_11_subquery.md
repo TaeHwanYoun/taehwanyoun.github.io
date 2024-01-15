@@ -289,6 +289,23 @@ WHERE SSN = (
 
 
 
+## 3) **Correlated Subquery**
+ : 하나의 행에 복수의 행의 정보로 집계된 값을 삽입하는 방법 
+  - 활용 1) 이동 평균
+    :  계산시 특정 시점을 기준으로 과거 N일치의 값을 불러와야함.
+  - 활용 2) 누적 합계
+    :  계산시 특정 시점을 기준으로 과거 모든 일수를 불러옴.
+```sql
+-- 이동 평균
+SELECT 
+t1.date, 
+m1.value,
+(select avg(value)
+ from sample_table t2
+ WHERE t2.date BETWEEN DATE_ADD(t1.date, INTERVAL -1 DAY) AND DATE_ADD(t1.date, INTERVAL +1 DAY))
+FROM sample_table t1
+```
+
 
 
 
@@ -376,8 +393,10 @@ ON EMP.EMP_ID = ORD.EMP_ID;
 
 
 <br>
+
 --- 
 --- 
+
 <br>
 
 

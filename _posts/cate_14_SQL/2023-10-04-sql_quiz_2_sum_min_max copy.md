@@ -60,3 +60,26 @@ WHERE PRICE = (
 --- 
 
 <br>
+
+### ■ Q_3
+ - 부서별, 2000년 이전 / 이후 입사자 수 카운팅
+ - [Wanted_MySQL Challenge : query group_by](https://www.notion.so/Wanted-MySQL-f618059376104027bda91aa08e36cce4#8fccb3619bf6453b867413676ad0fcd3)
+
+```sql
+-- 1) using order by
+SELECT 
+    dept_no,
+    SUM(CASE WHEN hire_date < '2000-01-01' THEN 1 ELSE 0 END) AS hired_before_2000,
+    SUM(CASE WHEN hire_date >= '2000-01-01' THEN 1 ELSE 0 END) AS hired_after_2000
+FROM 
+    (SELECT e.emp_no, e.hire_date, de.dept_no 
+     FROM employees e 
+     JOIN dept_emp de ON e.emp_no = de.emp_no) AS derived_table
+GROUP BY dept_no;
+```
+
+<br>
+
+--- 
+
+<br>
