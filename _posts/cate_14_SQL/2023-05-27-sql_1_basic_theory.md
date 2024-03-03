@@ -144,8 +144,66 @@ DROP TABLE professor
 <br>
 
 
+## 3. ERD
+ - Entity : 개체, 테이블
+ - Attribute : Entity내 포함된 컬럼
+ - Realationship : 테이블간 관계
+    - PK : Primary Key ()
+  - direction
+    - one to one
+    - one to many
+    - many to many
 
-## 3. + SQL공부하기
+
+--- 
+
+<br>
+<br>
+
+
+## 4. Data Type
+**1. 숫자**
+  - int
+      - tinyint: -128 ~ 127
+      - smallint: -32768 ~ 32767
+      - mediumint: -8388608 ~ 8388607
+      - int: -2147483648 ~ 2147483647
+      - bigint: $-2^{\smash{63}}$  ~   $2^{\smash{63}} - 1$
+  - float
+      - decimal(): 정확한 값을 저장하기 때문에 정밀하게 계산해야 할 때 사용
+      - float(): 지수 표현(예시. 1.2e+3)을 통해 근삿값을 저장하기 때문에 정확성은 떨어지지만 처리 속도가 빠름
+      - double(): float()보다 정확한 대신 저장공간이 더 많이 필요함
+
+**2. 문자**
+  - varchar(): 글자 수가 정해져 있지 않은 문자 (예시. 이름, 주소 등)
+  - char(): 글자 수가 일정한 문자
+
+**3. 날짜 / 시간**
+  - date(): 1000-01-01 ~ 9999-12-31
+  - datetime(): 1000-01-01 00:00:00.000000 ~ 9999-12-31 23:59:59.999999
+  - timestamp() = datetime() + timezone 가장 많이 사용
+
+**4. JSON(JavaScript Object Notation)**
+  - JSON 포맷의 표현 방식
+    - **객체(Object)**: 키-값 쌍의 집합
+        
+        ```sql
+        {"Id":"abc", "value":123, "gender":'f'}
+        ```
+        
+    - **배열(Array)**: 순서가 있는 값의 집합
+        
+        ```sql
+        ['a', 'b', 'c', 'd']
+        ```
+
+
+--- 
+
+<br>
+<br>
+
+## 5. + SQL공부하기
  - [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://www.minwookim.kr/how-to-learn-sql-1/)
  - [데이터 분석, 먹고 들어가기 위한 SQL 공부법(2편)](https://www.minwookim.kr/how-to-learn-sql-2/)
 
@@ -200,3 +258,5 @@ INSERT INTO `user_log` (`user_id`, `event`,`event_date`) VALUES
 #### Reference  
 [1] [비전공자를 위한 SQL](https://zzsza.github.io/development/2018/03/18/sql-for-everyone/)  
 [2] [MySQL 데이터베이스 한번에 끝내기 SQL Full Tutorial Course using MySQL Database](https://www.youtube.com/watch?v=vgIc4ctNFbc)
+
+
