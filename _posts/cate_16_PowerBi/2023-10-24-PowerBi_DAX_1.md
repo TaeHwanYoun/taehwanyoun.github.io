@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: Tutorial
 date : 24 Oct 2023
@@ -19,4 +19,4 @@ comments : true
 
 
 #### Reference
-[1] [PowerBi Tutorial - Kevin Stratvert](https://www.youtube.com/watch?v=TmhQCQr_DCA)  
+[1] [PowerBi Tutorial - Kevin Stratvert](https://www.youtube.com/watch?v=TmhQCQr_DCA)   -->
