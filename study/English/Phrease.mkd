@@ -30,6 +30,10 @@ This is a opportunity for leveraging a free online resource to close the educati
 ```
  - close the gap
 
+----
+----
+
+
 ```
 It's also annoying because stress makes it' hard for me to fall asleep, so one night of bad rest can snowball into multiple days of insomnia. 
 ```
@@ -103,3 +107,30 @@ I am very eager to get a clear picture of what I'm reading.
 ```
  - **to get a clear picture (of something)** = To achieve a comprehensive and accurate understanding or visualization of a situation, concept, or information.
 
+
+```
+The chart begins with data from 2012 and we can see a sharp increase to a peak at 2014 at 70%. 
+From there, the chart gradually declines until 2020. 
+```
+ - **From there** 
+
+
+```
+This dramatic increase in revenue did not last long for Meta. Following the steep incline, there was a drastic fall in revenue from 2021-2022 that actually slopes into the negatives.
+```
+- This upward trend was short-lived. 
+- didn't last long 
+- Drastic (dramatic change and demonstrates the steep decline),  격렬한 (변화, 침체)
+
+
+```
+Even though it wasn't their intention, it made me feel small and inconsequential in comparison to my cousins; I felt like I could never measure up.
+```
+  - intention = A purpose or objective that one plans or intends to carry out; a conscious aim or goal behind one's actions or decisions. 
+  - inconsequential = Not significant or important; lacking relevance or impact; trivial or unimportant in the context of a particular situation or outcome. 
+  - ***to measure up*** = To meet or satisfy a particular standard or expectation; to be deemed adequate or satisfactory in comparison to others or to a specific criterion.
+  
+```
+Whenever my relatives would start talking about my cousins' grades, my parents would always try to steer the conversation in a different direction.
+```
+ - ***to steer the conversation in a different direction*** = To guide or redirect the focus or subject matter of a conversation toward a different topic or perspective; to change the course of discussion
