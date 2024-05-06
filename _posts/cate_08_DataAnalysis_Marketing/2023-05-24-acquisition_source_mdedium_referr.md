@@ -31,8 +31,8 @@ comments : true
 </center>  
 
  - ex) https://taehwanyoun.git.io?utm_source=kakao&utm_medium=push&utm_campaign=fb_promotion&utm_term=promotionAE&utm_content=202305_contents
- - utm_source=kakao : 소스(soruce)  
- - utm_medium=push : 매체(medium)  
+ - utm_source=kakao : 소스(soruce), 유입 채널 --> e.g. youtube, kakao
+ - utm_medium=push : 매체(medium) --> e.g. push, CPC, email, video
  - utm_campaign=fb_promotion : 캠페인(campagin)  
  - utm_term=promotionAE : 유입 키워드  
  - utm_content=202305_contents : 유입 컨텐츠  
