@@ -1,6 +1,6 @@
 ---
 layout: post
-title: datarian_sql_study
+title: datarian_sql_retention
 date : 20 Jan 2024
 category : SQL
 comments : true
