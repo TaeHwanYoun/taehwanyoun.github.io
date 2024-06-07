@@ -77,3 +77,37 @@
 - As we grow older : 커가면서 
 - As we grow accustomed to [N] : ~에 익숙해져가면서
     - ***As we grow accustomed to these feelings***, we begin to admit the unfairness of life and we stop trying to prevent it.
+
+- eeriness : strange/ fear 
+- unsettled : uncomfortable / not at ease
+    - My immediate reaction to the opening of The Metamorphasis was a feeling of eeriness and being unsettled. 
+
+- deteriorate : to decrease/ to worsen 
+    - As we age, our mobility and body starts to deteriorate 
+
+- uprooted : completely changed
+    - In one fell swoop, our lives can be uprooted and dramatically changed, however these freak incidents are often unforeseeable. 
+
+- altered : changed/ affected 
+    - COVID has altered the way that people view illness. 
+
+- It's a huge pressure on me [O]
+  - It give me a huge pressure [X] 의역문에서 발생하는 문법적 오류
+
+- Sales drop[X] --> drop in sales[O]
+
+- general idea : thought or something
+- beget : to beget [something] is to bring something
+    - If you already have a general idea of why a problem happened, using this structure to compare solutions can help beget better benefits
+
+
+- closing down (= shut down)
+- aforementioned : 앞서 말한 (대화 상황)
+    - It ***appears*** that 10% of existing stores on this street are ***closing down*** due to the aforementioned reason - so, this drop in sales / this phenomenon is not our fault. But now, we need to determine how to compel customers to come back to this street.
+    
+
+- long-winded (adverb) : someone talks for a long time
+    - He can't endure anyone being long-winded
+
+- Flustered : emotion when you're feeling stressed or anxious because you're in a situation that you feel uncomfortable
+    - She had to give a speech on stage, and it made her flustered, so she stumbled over her words."
