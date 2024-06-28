@@ -222,3 +222,22 @@ If a you can believe and trust that there is fairness in the world, then they wi
 Though we may feel that we are in control of our destinies, Kafka argues that this fantasy of control can be shattered at any time due to random events
 ```
   - [A] can be shattered : [A]는 부서질 수 있다.
+
+
+```
+If they succeed in this, then the value of the company will skyrocket
+```
+  - succeed in/at [A] : [A]에 성공하다
+
+```
+which can be negative for impressionable young people. 
+```
+  - impressionable : 영향받기 쉬운
+
+
+```
+A mosquito is small, but it carries diseases.  Even something as small as a mosquito can be dangerous.
+Even though I put on mosquito repellent, a mosquito bit me.
+```
+  - Even : Even is an adverb that intensifies.  It can modify nouns or verbs.
+  - Even though : is followed by a (S+ V) and makes a dependent clause.  It shows a surprising opposition.
