@@ -241,3 +241,33 @@ Even though I put on mosquito repellent, a mosquito bit me.
 ```
   - Even : Even is an adverb that intensifies.  It can modify nouns or verbs.
   - Even though : is followed by a (S+ V) and makes a dependent clause.  It shows a surprising opposition.
+
+```
+Throughout our lives, there are many steps that are prescribed to us by Korean culture.
+```
+  - Throughout : in every part of (a place or object)
+  - prescribed : to recommend or authorize a course of action, treatment, or medication, typically given by an authority, such as a doctor, to address a specific need or condition.
+
+```
+I have already put things off for as long as I can, and now I need to wrap things up.
+```
+  - have + p.p : it began in the past and continues/is still relevant in the present
+  - to put things off : to delay or postpone tasks or activities to a later time, often to avoid immediate action or decision.
+  - as [a] as possible/I can 
+  -  to wrap things up = to conclude or finish a task, activity, or discussion, typically by bringing it to a satisfactory or final end.
+
+
+```
+I have already put things off for as long as I can, and now I need to wrap things up.
+```
+  - MEET : for the first time you see someone or when you are seeing them because you have plans or an appointment. 
+  - SEE  : for all other situations.
+
+```
+I felt like banks took too much money from their users but nevertheless refused to take any responsibility when things went wrong. 
+```
+
+```
+I bought some Bitcoin around the same time that you did. 
+```
+  -Around the same time : 비슷한 시기에

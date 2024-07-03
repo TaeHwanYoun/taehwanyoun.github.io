@@ -111,3 +111,12 @@
 
 - Flustered : emotion when you're feeling stressed or anxious because you're in a situation that you feel uncomfortable
     - She had to give a speech on stage, and it made her flustered, so she stumbled over her words."
+
+
+- [X] There is no any middle man
+    - There is no middle man. 
+        - the NO is emphasized (There is NO milk in the house.)
+    - There isn't any middle man. 
+        - the "middle man" is more important (E.g. There is not any milk in the fridge.)
+
+        
