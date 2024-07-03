@@ -118,5 +118,3 @@
         - the NO is emphasized (There is NO milk in the house.)
     - There isn't any middle man. 
         - the "middle man" is more important (E.g. There is not any milk in the fridge.)
-
-        
