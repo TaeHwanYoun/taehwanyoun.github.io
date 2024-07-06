@@ -6,7 +6,7 @@ category : ETC
 comments : true
 ---
 
-[TAN.D 면접 질문 및 공부 LIST]
+[면접 질문 및 공부 LIST]
 
 ■ 인과관계와 상관관계의 차이 [O] : https://namu.wiki/w/%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80%20%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84#toc
  	: 인과관계는 변수간 선후관계가 명확해야 한다.  ex) 아이스크림 판매량, 익사사망자, "기온"
