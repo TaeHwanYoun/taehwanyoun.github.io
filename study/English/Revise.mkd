@@ -118,3 +118,9 @@
         - the NO is emphasized (There is NO milk in the house.)
     - There isn't any middle man. 
         - the "middle man" is more important (E.g. There is not any milk in the fridge.)
+ 
+- [X] "Not" many people including me "don't" worry about hyperinflation in Korea, but when IMF happened, nobody have expected that it would happen as well.
+- [O] Not many people, including me, worry about hyperinflation in Korea, but when IMF happened, nobody would have expected that; no one anticipated it. 
+
+
+ - 
