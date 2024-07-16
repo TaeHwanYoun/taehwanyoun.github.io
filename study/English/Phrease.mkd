@@ -240,7 +240,8 @@ A mosquito is small, but it carries diseases.  Even something as small as a mosq
 Even though I put on mosquito repellent, a mosquito bit me.
 ```
   - Even : Even is an adverb that intensifies.  It can modify nouns or verbs.
-  - Even though : is followed by a (S+ V) and makes a dependent clause.  It shows a surprising opposition.
+  - Even though : is followed by a (S+ V) and makes a dependent clause.  It shows a surprising opposition. (이미 기정사실일 때)
+  - Even if : 가정이 확정된 상황은 아닐 때 
 
 ```
 Throughout our lives, there are many steps that are prescribed to us by Korean culture.
@@ -271,3 +272,34 @@ I felt like banks took too much money from their users but nevertheless refused 
 I bought some Bitcoin around the same time that you did. 
 ```
   -Around the same time : 비슷한 시기에
+
+```
+Everyone who was watching the TV was indignant - it didn't make any sense.
+```
+  - indignant : Annoyed at the indignity of something, or at the injustice of something
+
+```
+This forces the value of the currency to decrease.
+```
+  - It forces [A] to [B] : A를 B하게 만들다.
+```
+
+I can discern that this shirt is a slightly darker shade of blue than the other.
+```
+  - To discern = to distinguish; to tell the difference between two things
+
+```
+With this movement, we were able to escape from national debt. 
+But hyperinflation can occur when a country loses its reliability from other countries - right now Korea is stable, though. 
+```
+  - reliability = 신뢰성
+
+```
+Secondly, when my job gives me an opportunity to grow, then if I can improve my life situation from the work, I think it's valuable to seize that chance and work overtime, even though, in exchange, I have to give up some free time and my work-life balance.
+```
+  - to seize that chance 
+
+```
+Although it's never infallible, I always want to try my best. 
+```
+  - Infallible = the noun is "fallacy" which means a flaw; infallible = flawless
