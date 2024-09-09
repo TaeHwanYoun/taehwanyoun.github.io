@@ -330,3 +330,22 @@ Neither the book nor the film downplays how big those risks can be, nor do they 
 ```
   - Neither A Nor B + V : A뿐만아니라 B도 V하지 않는다.
   - downplay : 경시하다, 과소평과하다.
+
+```
+I'm a tad skeptical in my company.
+```
+  - tad : "tad" can be used in a variety of situations 
+    - for instance, "Move over a tad," or "I've got a tad more homework to do before I go to bed."
+
+
+```
+My job as a data analyst is typically considered to be a "specialist" career, but I'm not sure that I'm qualified to label myself as such. I can write and read particular programming languages that are tailored to manipulating data structures and analyses.
+```
+  - as such
+    - "The company is labeled as being within the health industry, but I don't think they can call themselves *as such* because they focus more on beauty instead."
+  - tailored : desined 
+    - ex) This book on economics is tailored to people who have no idea how to invest - it's for beginners."
+
+
+```
+```
