@@ -192,10 +192,20 @@ GROUP BY FLAG;
  : WHERE 조건절에서 하위 쿼리는 IN 연산자와 함게 사용된다. 
   전체 모집단에서 특정 세그먼트만 추출할 때 WHERE 조건절의 하위쿼리가 유용하게 사용된다. 
 ```sql
+-- 단일 컬럼 서브쿼리 
 SELECT COL_1, COL_2
 FROM TABLE_1_NM
 WHERE COL_NM_TARGET IN (
     SELECT COL_NM_TARGET 
+    FROM TABLE_2_NM
+    WHERE CONDITIONAL
+    );
+
+-- 다중 컬럼 서브쿼리 
+SELECT COL_1, COL_2
+FROM TABLE_1_NM
+WHERE COL_NM_TARGET_1, COL_NM_TARGET_2  IN (
+    SELECT COL_NM_TARGET_1, COL_NM_TARGET_2
     FROM TABLE_2_NM
     WHERE CONDITIONAL
     );
