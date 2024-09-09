@@ -240,7 +240,8 @@ A mosquito is small, but it carries diseases.  Even something as small as a mosq
 Even though I put on mosquito repellent, a mosquito bit me.
 ```
   - Even : Even is an adverb that intensifies.  It can modify nouns or verbs.
-  - Even though : is followed by a (S+ V) and makes a dependent clause.  It shows a surprising opposition.
+  - Even though : is followed by a (S+ V) and makes a dependent clause.  It shows a surprising opposition. (이미 기정사실일 때)
+  - Even if : 가정이 확정된 상황은 아닐 때 
 
 ```
 Throughout our lives, there are many steps that are prescribed to us by Korean culture.
@@ -271,3 +272,80 @@ I felt like banks took too much money from their users but nevertheless refused 
 I bought some Bitcoin around the same time that you did. 
 ```
   -Around the same time : 비슷한 시기에
+
+```
+Everyone who was watching the TV was indignant - it didn't make any sense.
+```
+  - indignant : Annoyed at the indignity of something, or at the injustice of something
+
+```
+This forces the value of the currency to decrease.
+```
+  - It forces [A] to [B] : A를 B하게 만들다.
+```
+
+I can discern that this shirt is a slightly darker shade of blue than the other.
+```
+  - To discern = to distinguish; to tell the difference between two things
+
+```
+With this movement, we were able to escape from national debt. 
+But hyperinflation can occur when a country loses its reliability from other countries - right now Korea is stable, though. 
+```
+  - reliability = 신뢰성
+
+```
+Secondly, when my job gives me an opportunity to grow, then if I can improve my life situation from the work, I think it's valuable to seize that chance and work overtime, even though, in exchange, I have to give up some free time and my work-life balance.
+```
+  - to seize that chance 
+
+```
+Although it's never infallible, I always want to try my best. 
+```
+  - Infallible = the noun is "fallacy" which means a flaw; infallible = flawless
+
+
+```
+it could be a vicious cycle when stress coming, if we handle by bad way it also generate another stress
+ - vicious cycle
+```
+
+```
+Generally speaking, when working remotely, there's a clear end in sight. On the other hand, my work tends to keep compiling when working in-office. It's especially difficult to strike a good work-life balance with a long commute. Especially during this season in Korea, commuting through public transit is annoying and exhausting.
+```
+ - generally speaking
+ - there's a clear end in sight
+ - compiling
+ - to strike a good-life balance 
+ - exhausting
+
+```
+There are several benefits such as building camaraderie
+```
+ - Camaraderie: feeling trust and closeness with a group of people (Kam-ra-da-ree)
+
+
+```
+Neither the book nor the film downplays how big those risks can be, nor do they offer many suggestions for how to avoid or reduce them. 
+```
+  - Neither A Nor B + V : A뿐만아니라 B도 V하지 않는다.
+  - downplay : 경시하다, 과소평과하다.
+
+```
+I'm a tad skeptical in my company.
+```
+  - tad : "tad" can be used in a variety of situations 
+    - for instance, "Move over a tad," or "I've got a tad more homework to do before I go to bed."
+
+
+```
+My job as a data analyst is typically considered to be a "specialist" career, but I'm not sure that I'm qualified to label myself as such. I can write and read particular programming languages that are tailored to manipulating data structures and analyses.
+```
+  - as such
+    - "The company is labeled as being within the health industry, but I don't think they can call themselves *as such* because they focus more on beauty instead."
+  - tailored : desined 
+    - ex) This book on economics is tailored to people who have no idea how to invest - it's for beginners."
+
+
+```
+```

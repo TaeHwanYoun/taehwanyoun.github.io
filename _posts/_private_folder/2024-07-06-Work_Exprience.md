@@ -2,7 +2,7 @@
 layout: post
 title: Work Exprience
 date : 6 Jun 2024
-category : stock
+category : interview
 comments : true
 ---
 ### 포지션 JD

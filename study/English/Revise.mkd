@@ -118,3 +118,35 @@
         - the NO is emphasized (There is NO milk in the house.)
     - There isn't any middle man. 
         - the "middle man" is more important (E.g. There is not any milk in the fridge.)
+ 
+- [X] "Not" many people including me "don't" worry about hyperinflation in Korea, but when IMF happened, nobody have expected that it would happen as well.
+- [O] Not many people, including me, worry about hyperinflation in Korea, but when IMF happened, nobody would have expected that; no one anticipated it. 
+
+
+ - [X] It was such a nuisance to go to a gym at least 3 times a week for the first time.
+ - [O] At first, going to the gym multiple times a week was a pain in the neck.
+        - At first : refer to the initial stage or begining phase of situation.
+        - for the first time : literarly first time 
+
+ - [X] Lately, I felt some kind of difficulty to ~
+ - [O] Lately, *I've been* having some trouble to ~
+        - "recently" & "Lately" force us to use present perfect tense.
+ 
+
+
+-  [x] But if they use their parent's power or parents' impactful power to get the casting or enter the company which is a limited position without enough ability,
+ - [o]Firstly, it can limit others' opportunities. While it's acceptable for nepo babies to run their own businesses, or become an influencer using their parents' social impact, it's more frowned upon if they use their parents' prominence to get cast, or to get hired in a competitive position despite a lack of ability
+    - Putting "without enough ability" directly after "position" implies that the position doesn't have enough ability, so switching the word to "despite" helps to separate the descriptions and makes it a bit more clear.
+    - "frowned upon" = something that society doesn't approve of, but it still happens
+
+
+ - [x] The *most important* problem was that her position was a little bit not clear, because her position was kind of care everything to arrange everything, and follow the KPI, and check where there are
+ - [o] The *crux* of the problem was that her position was *vague*; 
+ she was responsible for a variety of duties, such as following the KPI, and checking up on miscellaneous tasks.
+    - crux
+    - vague
+    - miscellaneous 
+
+- irreplaceable
+    - [x] unreplaceable
+    - [o] irreplaceable  
