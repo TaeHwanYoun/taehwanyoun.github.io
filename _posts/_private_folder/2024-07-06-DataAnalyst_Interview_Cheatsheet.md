@@ -2,7 +2,7 @@
 layout: post
 title: Data Analyst Interview Cheat sheet
 date : 6 Jun 2024
-category : stock
+category : interview
 comments : true
 ---
 
