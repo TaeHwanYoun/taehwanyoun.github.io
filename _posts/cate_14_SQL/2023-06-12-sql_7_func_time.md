@@ -99,6 +99,8 @@ select pi();
 | **DATE_ADD** | (MySQL) 지정한 날짜에 개월 수를 더한 날짜 출력 |
 | **DATE_SUB** | (MySQL) 지정한 날짜에 개월 수를 뺀 날짜 출력 |
 | **DATE_FORMAT** | (MySQL) 지정한 날짜를 희망하는 포맷으로 변경 |
+| **DATE_PART** | (PostgreSql) 지정한 날짜를 희망하는 포맷으로 변경 * isoweeknum 활용!|
+
 
 ```sql
 SELECT DATE_ADD(DLQ_ST, INTERVAL 1 MONTH) from DLQ_PARTY;
@@ -144,6 +146,13 @@ SELECT DATE_FORMAT(DLQ_ST,'%Y-%m-%d') AS DLQ_SQ from DLQ_PARTY;
 -- +------------+
 -- | 2012-07-30 |
 -- | 2012-09-21 |
+
+-- postgresql
+SELECT DATE_PART('week', '2020-10-07') AS ISO_WEEK_NUM;
+-- +-------------+
+-- | ISO_WEEK_NUM|
+-- +-------------+
+-- |      41     |
 ```
 
 

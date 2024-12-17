@@ -1,145 +1,154 @@
 ## Revise 
 
+---------
 - 가능한한 ~하게(빠르게) : as A as possible  
     - In the most of work days I'm so impatient to do many things, so I'm in a rush.  
     -> Most of the days I work, I'm in a rush to get everything done **as quickly as possible**.
 
+---------
 - 좀전에 : a little while ago  
     - First one, like you I went to the gym; actually I just came from the gym 30 minutes ago .  
     -> Like you, one of my resolutions is to go to the gym; I just got back from the gym **a little while ago**. 
 
+---------
 - 이해하다 : grasp
     - I want to get full understand from that article.
     - I want to **fully grasp** the article.
 
-
+---------
 - 더 적게 발생한다 : it happens much less often
     - Less situation would be happen when I read an article in Korean.  
     -> Although **it happens much less often** when I'm reading in Korean.
 
+---------
 - **"It makes it [ADJ] for [OBJ] to [VERB]"**
    - It makes me difficult to concentrate in my work
    - It makes it difficult for me to concentrate on my work
       - It makes it easy for us to work.
       - It made it challenging for the girl to sleep
 
+---------
 - ~은 나의 관심을 끌다 : **[NOUN] resonated with me**
 - ~에 매료되다 : **be drawn to something**
    - At that time, some of philosopher keep touch my mind at the time. 
    - I **came across** many different philosophies at that time that **resonated with** me. 
   - I **was drawn** to existentialism.
 
+---------
 - [A] is that S+V+~
    - The first one is  "Life is absurd" 
    - The first one **is that** Life is absurd. 
 
+---------
 - resonated with [N] : ~에 감명깊다
     - I most resonated thing with is that our lot of personalities are not just born as they were but could be affected by our social relationships or structure and even coincidence when we are born.
     - I resonated most with the idea that various factors, often beyond our control, can shape who we become.
     - beyond our control = Referring to circumstances or events that are not subject to our influence or manipulation; beyond our ability to manage or alter.
     - to shape (personality) = To influence or mold the development or characteristics of someone's personality;
 
-
+---------
 - Skeptical **of** [N]: ~에 대해 회의적이다
     - I'm a little bit skeptical *to* the flat tax
     - I'm slightly skeptical ***of*** the flat tax because I believe that both systems can motivate (incentivize) people to generate higher incomes.
 
-
+---------
 - have gone on strike : 파업하다.
 - take off their uniforms : 일을 그만두다.
     - A lot of doctor stop doing their jobs. They take off their clothes and stop work anymore.
     - A lot of doctors ***have gone on strike***. They simply take off their uniforms (scrubs) and refuse to work.
 
-
+---------
 - put a strain on [someone]: ~에게 부담이되다
     - On the other hand, charging the same tax rate would ***put a strain on*** some people's disposable incomes. 
 
-
+---------
 - takes place : 자리잡다, ~[언제] 이다
     - We have tax season in February.
     - Our tax season ***takes place*** in February 
-
+---------
 - stand out : 감명깊다, 인상깊다 (=Impressive)
     - The progressive tax system already motivates people to earn more money, which is why the flat tax system doesn't really stand out to me. 
 
-
+---------
 - most in favour of : ~에 선호가 높은
     - Someone who persist to apply flat tax would be rich person.
     - Those who would likely be most in favour of a flat tax are rich people. 
 
-
+---------
 - [A] allows [B]
 - up to [A] : 최대 A까지
     - My advanced level can dive until 30 meters.
     - My advanced level ***allows me to dive up to 30 meters***
 
-
+---------
 - As we grow older : 커가면서 
 - As we grow accustomed to [N] : ~에 익숙해져가면서
     - ***As we grow accustomed to these feelings***, we begin to admit the unfairness of life and we stop trying to prevent it.
 
+---------
 - eeriness : strange/ fear 
 - unsettled : uncomfortable / not at ease
     - My immediate reaction to the opening of The Metamorphasis was a feeling of eeriness and being unsettled. 
-
+---------
 - deteriorate : to decrease/ to worsen 
     - As we age, our mobility and body starts to deteriorate 
-
+---------
 - uprooted : completely changed
     - In one fell swoop, our lives can be uprooted and dramatically changed, however these freak incidents are often unforeseeable. 
-
+---------
 - altered : changed/ affected 
     - COVID has altered the way that people view illness. 
-
+---------
 - It's a huge pressure on me [O]
   - It give me a huge pressure [X] 의역문에서 발생하는 문법적 오류
-
+---------
 - Sales drop[X] --> drop in sales[O]
 
+---------
 - general idea : thought or something
 - beget : to beget [something] is to bring something
     - If you already have a general idea of why a problem happened, using this structure to compare solutions can help beget better benefits
 
-
+---------
 - closing down (= shut down)
 - aforementioned : 앞서 말한 (대화 상황)
     - It ***appears*** that 10% of existing stores on this street are ***closing down*** due to the aforementioned reason - so, this drop in sales / this phenomenon is not our fault. But now, we need to determine how to compel customers to come back to this street.
     
-
+---------
 - long-winded (adverb) : someone talks for a long time
     - He can't endure anyone being long-winded
 
 - Flustered : emotion when you're feeling stressed or anxious because you're in a situation that you feel uncomfortable
     - She had to give a speech on stage, and it made her flustered, so she stumbled over her words."
 
-
+---------
 - [X] There is no any middle man
     - There is no middle man. 
         - the NO is emphasized (There is NO milk in the house.)
     - There isn't any middle man. 
         - the "middle man" is more important (E.g. There is not any milk in the fridge.)
- 
+--------- 
 - [X] "Not" many people including me "don't" worry about hyperinflation in Korea, but when IMF happened, nobody have expected that it would happen as well.
 - [O] Not many people, including me, worry about hyperinflation in Korea, but when IMF happened, nobody would have expected that; no one anticipated it. 
 
-
+---------
  - [X] It was such a nuisance to go to a gym at least 3 times a week for the first time.
  - [O] At first, going to the gym multiple times a week was a pain in the neck.
         - At first : refer to the initial stage or begining phase of situation.
         - for the first time : literarly first time 
-
+---------
  - [X] Lately, I felt some kind of difficulty to ~
  - [O] Lately, *I've been* having some trouble to ~
         - "recently" & "Lately" force us to use present perfect tense.
  
 
-
+---------
 -  [x] But if they use their parent's power or parents' impactful power to get the casting or enter the company which is a limited position without enough ability,
  - [o]Firstly, it can limit others' opportunities. While it's acceptable for nepo babies to run their own businesses, or become an influencer using their parents' social impact, it's more frowned upon if they use their parents' prominence to get cast, or to get hired in a competitive position despite a lack of ability
     - Putting "without enough ability" directly after "position" implies that the position doesn't have enough ability, so switching the word to "despite" helps to separate the descriptions and makes it a bit more clear.
     - "frowned upon" = something that society doesn't approve of, but it still happens
 
-
+---------
  - [x] The *most important* problem was that her position was a little bit not clear, because her position was kind of care everything to arrange everything, and follow the KPI, and check where there are
  - [o] The *crux* of the problem was that her position was *vague*; 
  she was responsible for a variety of duties, such as following the KPI, and checking up on miscellaneous tasks.
@@ -147,6 +156,29 @@
     - vague
     - miscellaneous 
 
+---------
 - irreplaceable
     - [x] unreplaceable
     - [o] irreplaceable  
+
+---------
+ - [orginal] We tried to change our voting system last five years ago, but lawmaker and major party using expedient
+ - [enhanced] We passed some reforms five years ago that were meant to make more room for third-party candidates, but the major parties took advantage of a loophole in the system by establishing offshoot parties to maintain their dominance.
+    - third-party candidates = Political candidates who represent parties other than the two dominant ones in a system, often offering alternative perspectives or policies. 
+    - loophole = A gap or ambiguity in a rule, law, or system that allows someone to bypass its intent while technically complying with its wording. 
+    - offshoot = A secondary or derived branch of something, such as an organization, movement, or idea, that develops from a main source.
+
+---------
+ - [orginal] So, they will make the decision within six month, but everyone's looking forward to make the decision more quickly, two or three month.
+ - [enhanced] Under normal circumstances, this would take around six months, but most people anticipate that it will happen much more quickly.
+    - to anticipate = To expect or predict something in advance. 
+    - to look forward to = To feel excited or eager about a future event or experience.
+
+
+---------
+ - [orginal] But after that happen a lot of Korea people very enraged about they didn't participate that vote.  We strongly insist that this party has to be dismisses.
+ - [enhanced] When that happened, the Korean public was **so outraged** that we took to the streets to protest this behavior and push the government to do their job. 
+
+---------
+ - [orginal] there is no ambiguity point.
+ - [enhanced] There's no room for ambiguity. 
