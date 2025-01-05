@@ -181,4 +181,37 @@
 
 ---------
  - [orginal] there is no ambiguity point.
- - [enhanced] There's no room for ambiguity. 
+ - [enhanced] There's **no room for ambiguity**. 
+
+---------
+ - [orginal] getting license for free diving level 3
+ - [enhanced] earning Level 3 free diving license 
+
+---------
+ - [orginal] I overlooked this license because I easily got to level 2, so I thought level 3 would be easy to take. After I tried, I felt that this was a little different from the last one
+ - [enhanced] Initially, I **underestimated** the difficulty of this level because I had achieved Level 2 **relatively easily** and assumed Level 3 would be similar.
+However, I quickly realized it was a significant **step up**.
+
+---------
+ - [orginal] But after over 20 meters I felt that pressure of the water was really huge.
+ - [enhanced] Once I passed the 20-meter mark, the **immense** water pressure became a real challenge, making the experience **far more demanding than I had anticipated**.
+
+---------
+ - [orginal] The air which left in my lung getting smaller so it was more difficult to equalize
+ - [enhanced] As I went deeper underwater, the volume of air left in my lungs decreased by the pressure of water, making it increasingly difficult to equalize.
+
+---------
+ - [orginal] 2 minute and half (X)
+ - [enhanced] two and a half minutes (O)
+
+---------
+ - [orginal] Every word and term is new to me because before I joined this company, I worked at an IT company, but I supported the marketing team to analyze the data and improve their sales performance. 
+ - [enhanced] Every term feels new to me because, before joining my current company, I worked exclusively at an IT company, supporting the marketing team by analyzing data and enhancing sales performance.
+
+---------
+ - [orginal] Every word and term is new to me because before I joined this company, I worked at an IT company, but I supported the marketing team to analyze the data and improve their sales performance. 
+ - [enhanced] Every term feels new to me because, before joining my current company, I worked exclusively at an IT company, supporting the marketing team by analyzing data and enhancing sales performance.
+
+---------
+ - [orginal] After I changed this company, this company is more insurance, so I have lot of chance to work with finance team.
+ - [enhanced] Transitioning to this company, which focuses more on insurance, has given me many opportunities to collaborate with the finance team.
