@@ -182,3 +182,10 @@
 ---------
  - [orginal] there is no ambiguity point.
  - [enhanced] There's no room for ambiguity. 
+
+---------
+ - [orginal]  it's important to make it easier and remove the barrier of voting to increase interest of vote
+ - [enhanced] Having an accessible and convenient system is important in making it easier to vote  
+
+---------
+ 
